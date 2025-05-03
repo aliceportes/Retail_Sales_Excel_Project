@@ -1,6 +1,6 @@
 # Retail Sales Dashboard (Excel Project)
 
-![Retail Sales Dashboard](Dashboard/test.png)
+![Retail Sales Dashboard](Dashboard/dashboard_preview.png)
 
 
 

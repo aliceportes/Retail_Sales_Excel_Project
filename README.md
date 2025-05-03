@@ -2,6 +2,9 @@
 
 ![Dashboard Preview](Dashboard/dashboard_preview.jpg)
 
+<img src="Dashboard/dashboard_preview.jpg" alt="Dashboard Preview" width="100%">
+
+
 ---
 
 ## Overview

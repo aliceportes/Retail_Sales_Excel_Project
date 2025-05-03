@@ -1,5 +1,7 @@
 # Retail Sales Dashboard (Excel Project)
 
+![Dashboard Preview](Dashboard/dashboard_preview.jpg)
+
 ---
 
 ## Overview

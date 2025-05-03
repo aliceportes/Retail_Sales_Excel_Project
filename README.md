@@ -1,6 +1,11 @@
 # Retail Sales Dashboard (Excel Project)
 
+---
+
+## Overview
 This Excel project showcases a complete data analysis workflow using the "Retail Store Sales (Dirty for Data Cleaning)" dataset from Kaggle. It includes data cleaning, pivot tables, and a fully interactive dashboard built with slicers, KPI cards, and multiple chart types.
+
+---
 
 ## Dataset
 
